@@ -1,0 +1,6 @@
+1. BERT corpus data input (BERT processing)
+2. BERT corpus data input (semantic modeling)
+3. Transcript data (data processing)
+4. Transcript data (Q&A fine tuning)
+5. Q&A modeling
+6. Sentiment modeling
